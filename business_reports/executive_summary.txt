@@ -1,0 +1,23 @@
+NETFLIX BUSINESS ANALYTICS - EXECUTIVE SUMMARY
+==================================================
+
+Total Content Library: 8,807 titles
+Movies: 6,131
+TV Shows: 2,676
+Date Range: 2008 - 2021
+Average Movie Duration: 99.6 minutes
+Average TV Show Seasons: 1.8
+
+TOP COUNTRIES:
+  • United States: 3,690 titles
+  • India: 1,046 titles
+  • Unknown: 831 titles
+  • United Kingdom: 806 titles
+  • Canada: 445 titles
+
+TOP GENRES:
+  • International Movies: 2,752 titles
+  • Dramas: 2,427 titles
+  • Comedies: 1,674 titles
+  • International TV Shows: 1,351 titles
+  • Documentaries: 869 titles

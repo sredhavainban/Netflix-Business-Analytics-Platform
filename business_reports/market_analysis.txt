@@ -1,0 +1,21 @@
+MARKET ANALYSIS REPORT
+=========================
+
+GEOGRAPHIC DISTRIBUTION:
+  • Total markets: 124
+  • Top 5 market concentration: 62.8%
+  • Top countries:
+    - United States: 3,690 titles
+    - India: 1,046 titles
+    - Unknown: 831 titles
+    - United Kingdom: 806 titles
+    - Canada: 445 titles
+    - France: 393 titles
+    - Japan: 318 titles
+    - Spain: 232 titles
+    - South Korea: 231 titles
+    - Germany: 226 titles
+
+CONTENT RATINGS:
+  • Family-friendly content: 28.9%
+  • Mature content: 71.1%
